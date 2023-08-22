@@ -1,5 +1,5 @@
 # BookRecommendation
-## Complete process of book recommendation
+## Complete and detail process of book recommendation
 
 This project included the following processes:
 * Exploratory Data Analysis (EDA)
