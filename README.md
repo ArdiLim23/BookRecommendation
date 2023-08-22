@@ -17,6 +17,7 @@ This project included the following processes:
     > with each 50 embedding size used.
 
 ### This project is created with:
+* Python
 * Google Collab
 * TensorFlow
 * Keras
